@@ -8,6 +8,7 @@ This section corresponds to the first example in [this page](https://developer.g
 The goal of this section is to set up a basic window as an example
 of how to interact with the gtk api. By the end of this section,
 we should have a window like this
+
 ![](https://developer.gnome.org/gtk3/stable/window-default.png)
 
 
