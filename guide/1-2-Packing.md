@@ -28,6 +28,8 @@ main = do
         ]
     on window #destroy Gtk.mainQuit
 ```
+The only new property is `borderWidth`. This does what you might have guessed,
+and pads the window so that the content inside has some breathing room.
 
 ### Setting up a grid
 This time we want to add multiple buttons arranged in a certain way, and a widget
